@@ -1,1 +1,17 @@
 @import url('https://fonts.googleapis.com/css?family=Lora|Raleway');
+
+body {
+  font-family: "Raleway", sans-serif;
+}
+
+address,
+p {
+  margin: 0;
+  font-style: normal;
+
+  }
+
+img {
+  width: 100%;
+  height: auto;
+}
