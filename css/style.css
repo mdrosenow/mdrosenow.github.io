@@ -91,6 +91,9 @@ nav ul {
 
 nav a {
   text-decoration: none;
+  border-bottom-width: thin;
+  border-bottom-style: dotted;
+  border-color: red;
   color: black;
 }
 
