@@ -125,3 +125,17 @@ a:visited {
   background-color: white;
 
 }
+
+img {
+  width: 957px;
+  height: auto;
+  position: relative;
+  border: 2px;
+  border-color: gray;
+  border-style: solid;
+  margin-top: 5px;
+}
+
+div {
+  font-size: 13px;
+}
