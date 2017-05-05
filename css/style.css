@@ -1,0 +1,127 @@
+@import url('https://fonts.googleapis.com/css?family=Alegreya+Sans+SC|Lato');
+
+h1 {
+  font-family: "Alegreya Sans SC", sans-serif;
+  background-color: #c0e0e0;
+  padding-top: 5px;
+  margin-right: .5px;
+  margin-bottom: 0;
+  padding-bottom: 0px;
+  padding-left: 3px;
+  color: white;
+  font-size: 43px;
+  border-bottom: 5px;
+  border-bottom-color: gray;
+  border-bottom-style: solid;
+
+}
+
+h1 {
+  transition: background-color 1s;
+}
+
+h1:hover {
+  background-color: gray;
+  width: 960;
+}
+
+#disclaimer {
+  transition: background-color 2s;
+}
+
+#disclaimer:hover {
+  background-color: red;
+  width: 960;
+}
+
+h2 {
+  transition: background-color 2s;
+
+}
+
+h2:hover {
+  background-color: yellow;
+  width: 960;
+}
+
+body {
+  font-family: "Lato", sans-serif;
+  max-width: 960px;
+  margin: 0 auto;
+  background-color: #f0f0f0;
+
+}
+
+h2 {
+  max-width: none;
+  background-color: white;
+
+}
+
+h3 {
+  font-family: "Alegreya Sans SC", sans-serif;
+  font-size: 25px;
+  color: #606080;
+  margin-bottom: 0;
+
+}
+
+p {
+  margin-top: 3px;
+}
+
+nav {
+
+  margin-left: 0;
+  margin-top: 0;
+  padding-top: 0;
+  padding-left: 0;
+  font-family: "Alegreya Sans SC", sans-serif;
+
+}
+
+nav ul {
+  list-style-type: none;
+  margin-left: 0;
+  padding-left: 0;
+  margin-top: 0;
+
+}
+
+nav li {
+  text-decoration: none;
+  display: inline-block;
+  background-color: #c0c0c0;
+  color: #404040;
+  padding-top: 4px;
+  padding-left: 7px;
+  padding-right: 7px;
+  font-size: 21.73999881px;
+  margin: auto;
+
+}
+
+
+nav a {
+  text-decoration: none;
+  color: inherit;
+  }
+
+a {
+  color: inherit;
+}
+
+a:hover {
+  color: #e0e0f0;
+}
+
+a:visited {
+  color: purple;
+}
+
+#disclaimer {
+  font-size: 15px;
+  font-style: italic;
+  background-color: white;
+
+}
